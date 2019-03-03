@@ -8,7 +8,8 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts(facts) {
   var exclaimation = []
-  while {
+  for (var i = 0; i < musicians.length; i++) {
     
   }
+  
 }
